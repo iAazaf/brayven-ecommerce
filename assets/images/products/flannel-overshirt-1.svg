@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750"><rect width="600" height="750" fill="#EDE4DA"/><ellipse cx="300" cy="648" rx="170" ry="16" fill="#8F4A30" opacity="0.12"/><g fill="#A85B3D" stroke="#8F4A30" stroke-width="3" stroke-linejoin="round"><path d="M220 252 L256 220 L300 252 L344 220 L380 252 L440 300 L410 392 L376 364 L376 585 Q300 598 224 585 L224 364 L190 392 L160 300 Z"/>
+                   <path d="M256 220 L300 252 L344 220" fill="none"/>
+                   <path d="M300 252 L300 578" fill="none" stroke-width="2"/>
+                   <rect x="240" y="430" width="52" height="64" fill="none" stroke-width="2"/>
+                   <rect x="308" y="430" width="52" height="64" fill="none" stroke-width="2"/></g><text x="300" y="706" text-anchor="middle" font-family="Georgia, serif" font-size="17" letter-spacing="7" fill="#171717" opacity="0.55">BRAYVEN</text></svg>
